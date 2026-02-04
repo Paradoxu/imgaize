@@ -238,7 +238,7 @@
 </script>
 
 <!-- Format Selectors -->
-<div class="flex items-center justify-center gap-4 mb-8">
+<div class="flex items-end justify-center gap-4 mb-8">
 	<div class="flex-1">
 		<label for="input-format" class="block text-sm font-medium text-mist mb-2">
 			From
@@ -256,7 +256,7 @@
 		</select>
 	</div>
 
-	<div class="flex items-end pb-1">
+	<div class="shrink-0 mb-0.5">
 		<div
 			class="w-12 h-12 rounded-full bg-gradient-to-r from-cyan to-violet flex items-center justify-center shadow-lg shadow-cyan/20"
 		>
