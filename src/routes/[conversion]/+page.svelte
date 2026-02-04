@@ -192,7 +192,7 @@
 		<header class="text-center mb-12">
 			<a href="/" class="inline-block">
 				<h1
-					class="font-display text-5xl font-bold bg-gradient-to-r from-cyan via-electric to-violet bg-clip-text text-transparent mb-3 tracking-tight"
+					class="font-display text-5xl font-bold bg-gradient-to-r from-cyan via-electric to-violet bg-clip-text text-transparent mb-3 tracking-tight leading-relaxed pb-1"
 				>
 					Imgaize
 				</h1>
