@@ -49,8 +49,8 @@
 		'@context': 'https://schema.org',
 		'@type': 'Organization',
 		name: 'Imgaize',
-		url: 'https://imgaize.com',
-		logo: 'https://imgaize.com/favicon.svg'
+		url: 'https://imgaize.app',
+		logo: 'https://imgaize.app/favicon.svg'
 	};
 </script>
 
@@ -64,7 +64,7 @@
 		name="keywords"
 		content="image converter, png to jpeg, jpeg to png, webp converter, avif converter, heic converter, online image converter, free image converter, convert image format"
 	/>
-	<link rel="canonical" href="https://imgaize.com/" />
+	<link rel="canonical" href="https://imgaize.app/" />
 
 	<!-- Open Graph -->
 	<meta property="og:title" content="Imgaize - Free Online Image Converter" />
@@ -73,7 +73,7 @@
 		content="Convert images between PNG, JPEG, WebP, GIF, BMP, AVIF, and more formats instantly in your browser. Free, fast, and private."
 	/>
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://imgaize.com/" />
+	<meta property="og:url" content="https://imgaize.app/" />
 	<meta property="og:site_name" content="Imgaize" />
 
 	<!-- Twitter Card -->

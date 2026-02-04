@@ -1,0 +1,56 @@
+{
+  "name": "Imgaize - Free Online Image Converter",
+  "short_name": "Imgaize",
+  "description": "Convert images between PNG, JPEG, WebP, GIF, BMP, AVIF, and more formats instantly in your browser. Free, fast, and private.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["utilities", "productivity", "photo"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "PNG to JPEG",
+      "url": "/png-to-jpeg",
+      "description": "Convert PNG images to JPEG format"
+    },
+    {
+      "name": "JPEG to PNG",
+      "url": "/jpeg-to-png",
+      "description": "Convert JPEG images to PNG format"
+    },
+    {
+      "name": "PNG to WebP",
+      "url": "/png-to-webp",
+      "description": "Convert PNG images to WebP format"
+    },
+    {
+      "name": "HEIC to JPEG",
+      "url": "/heic-to-jpeg",
+      "description": "Convert iPhone HEIC photos to JPEG"
+    }
+  ]
+}

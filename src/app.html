@@ -2,10 +2,41 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		
+		<!-- Preconnect for performance -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		
+		<!-- DNS Prefetch for external resources -->
+		<link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+		<link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+		
+		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Outfit:wght@100..900&display=swap" rel="stylesheet" />
+		
+		<!-- PWA Manifest -->
+		<link rel="manifest" href="/manifest.json" />
+		
+		<!-- Apple Touch Icon -->
+		<link rel="apple-touch-icon" href="/icon-192.png" />
+		
+		<!-- Microsoft Tile -->
+		<meta name="msapplication-TileColor" content="#0d1117" />
+		<meta name="msapplication-config" content="/browserconfig.xml" />
+		
+		<!-- Mobile Web App Capable -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="apple-mobile-web-app-title" content="Imgaize" />
+		
+		<!-- Format Detection -->
+		<meta name="format-detection" content="telephone=no" />
+		
+		<!-- Google Site Verification (replace with your actual verification code) -->
+		<!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
+		
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">

@@ -156,13 +156,13 @@
 	<title>{data.title}</title>
 	<meta name="description" content={data.description} />
 	<meta name="keywords" content="{data.fromFormat.label} to {data.toFormat.label}, convert {data.fromFormat.label}, {data.fromFormat.label} converter, image converter, free online converter" />
-	<link rel="canonical" href="https://imgaize.com/{data.from}-to-{data.to}" />
+	<link rel="canonical" href="https://imgaize.app/{data.from}-to-{data.to}" />
 	
 	<!-- Open Graph -->
 	<meta property="og:title" content={data.title} />
 	<meta property="og:description" content={data.description} />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://imgaize.com/{data.from}-to-{data.to}" />
+	<meta property="og:url" content="https://imgaize.app/{data.from}-to-{data.to}" />
 	
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary" />

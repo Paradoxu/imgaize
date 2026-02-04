@@ -1,0 +1,7 @@
+# Security Policy for imgaize.app
+# If you discover a security vulnerability, please report it responsibly.
+
+Contact: mailto:security@imgaize.app
+Expires: 2027-12-31T23:59:00.000Z
+Preferred-Languages: en
+Canonical: https://imgaize.app/.well-known/security.txt
